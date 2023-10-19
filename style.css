@@ -1,0 +1,8 @@
+.alert-box{
+    background-color: skyblue;
+    padding: 20px;
+    color: aliceblue;
+    border-radius: 5px;
+    display: none;
+    /* display : block; 은 반대임 */
+}
